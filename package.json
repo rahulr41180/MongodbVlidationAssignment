@@ -1,0 +1,25 @@
+{
+  "name": "mongodbvlidationassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulr41180/MongodbVlidationAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulr41180/MongodbVlidationAssignment/issues"
+  },
+  "homepage": "https://github.com/rahulr41180/MongodbVlidationAssignment#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.2.8"
+  }
+}
